@@ -1,0 +1,11 @@
+import Foundation
+
+let name = "Иван"
+let surname = "Полукаров"
+let datebirth = "08.02.2002"
+let sex = "Мужской"
+let age = 22
+print(surname, name, "Юрьевич")
+print("Дата рождения:", datebirth)
+print("Пол:", sex)
+print("Возраст:", age)
